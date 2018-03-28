@@ -1,0 +1,37 @@
+/* add your CSS here */
+.image{
+	width: 300px;
+}
+.div1{
+	border: 1px solid ;
+	border-color: #ACACAC;
+	width: 300px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	box-shadow: 10px 10px 5px #ACACAC;
+
+}
+.div2{
+	border: 1px solid;
+	border-color: #ACACAC;
+	padding: 10px;
+	font-size: 15px;
+}
+.interesting{
+	font-style: italic;
+	font-family: Helvetica;
+}
+.Label{
+	font-weight: bold;
+	font-family: Helvetica;
+}
+.list{
+	font-size: 12px;
+	padding: 0px;
+	font-family: Helvetica;
+}
+.listt{
+	padding: 2px;
+	font-family: Helvetica;
+}
